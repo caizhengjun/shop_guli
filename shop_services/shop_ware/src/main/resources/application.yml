@@ -1,0 +1,13 @@
+server:
+  port: 18085
+spring:
+  application:
+    name: shop-order
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://hadoop102:3306/guli_wms?useUnicode=true&characterEncoding=utf8
+    username: root
+    password: root
+
+  profiles:
+    active: dev

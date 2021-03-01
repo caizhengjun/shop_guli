@@ -1,0 +1,7 @@
+# Project exclude paths
+/code-generator/target/
+/shop_services/shop_coupon/target/
+/shop_services/shop_order/target/
+/shop_services/shop_product/target/
+/shop_services/shop_user/target/
+/shop_services/shop_ware/target/
